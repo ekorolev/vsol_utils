@@ -1,0 +1,20 @@
+{
+  "name": "vsol_utils",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "ekorolev <aksyline@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ekorolev/vsol_utils",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.6.4"
+  }
+}
